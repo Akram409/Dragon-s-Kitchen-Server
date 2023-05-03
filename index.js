@@ -7,6 +7,7 @@ const port = process.env.PORT || 5000
 
 const ChefData = require("./Data/ChefData.json")
 const recipeData = require("./Data/RecipesData.json")
+const reviewData = require("./Data/ClientReview.json")
 
 app.get('/', (req, res) => {
   res.send('Dragon is running!!')
@@ -25,6 +26,11 @@ app.get('/ChefData/:id',(req,res) =>{
 app.get('/recipesData',(req,res) =>{
   res.send(recipeData)
 })
+
+app.get('/reviewData',(req,res) =>{
+  res.send(reviewData)
+})
+
 
 
 app.listen(port, () => {
