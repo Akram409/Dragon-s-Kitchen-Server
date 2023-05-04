@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Jessica Chen",
     "yearsOfExperience": 12,
     "numberOfRecipes": 68,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Luis Ramirez",
     "yearsOfExperience": 9,
     "numberOfRecipes": 51,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Sophia Patel",
     "yearsOfExperience": 15,
     "numberOfRecipes": 84,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Andrew Kim",
     "yearsOfExperience": 7,
     "numberOfRecipes": 37,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Samantha Wong",
     "yearsOfExperience": 11,
     "numberOfRecipes": 62,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "/public/OIP.jpg",
+    "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
     "chefName": "Benjamin Lee",
     "yearsOfExperience": 20,
     "numberOfRecipes": 113,
