@@ -11,46 +11,46 @@
   {
     "id": 2,
     "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
-    "chefName": "Luis Ramirez",
+    "chefName": "Gordon Ramsay",
     "yearsOfExperience": 9,
     "numberOfRecipes": 51,
     "likes": 2500,
-    "chefBio": "Jessica Chen is a chef who specializes in Asian fusion cuisine. With over 12 years of experience in the culinary industry, Jessica has developed a unique style that blends traditional Asian flavors with modern techniques. Her dishes are known for their bold flavors and beautiful presentation."
+    "chefBio": "Gordon Ramsay is a world-renowned chef and television personality, known for his fiery personality and impeccable culinary skills. He has won multiple Michelin stars for his restaurants, which span the globe, and has authored several cookbooks. Ramsay has also been the host of many popular cooking shows, including Hell's Kitchen and MasterChef."
   },
   {
     "id": 3,
     "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
-    "chefName": "Sophia Patel",
+    "chefName": "Ina Garten",
     "yearsOfExperience": 15,
     "numberOfRecipes": 84,
     "likes": 4700,
-    "chefBio": "Jessica Chen is a chef who specializes in Asian fusion cuisine. With over 12 years of experience in the culinary industry, Jessica has developed a unique style that blends traditional Asian flavors with modern techniques. Her dishes are known for their bold flavors and beautiful presentation."
+    "chefBio": "Ina Garten is a beloved American chef, cookbook author, and television host. She is known for her approachable and elegant cuisine, which she often prepares on her show, Barefoot Contessa. Garten has authored numerous bestselling cookbooks and has won several awards for her culinary achievements."
   },
   {
     "id": 4,
     "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
-    "chefName": "Andrew Kim",
+    "chefName": "Massimo Bottura",
     "yearsOfExperience": 7,
     "numberOfRecipes": 37,
     "likes": 900,
-    "chefBio": "Jessica Chen is a chef who specializes in Asian fusion cuisine. With over 12 years of experience in the culinary industry, Jessica has developed a unique style that blends traditional Asian flavors with modern techniques. Her dishes are known for their bold flavors and beautiful presentation."
+    "chefBio": "Massimo Bottura is an Italian chef and restaurateur, known for his innovative and experimental approach to cuisine. He is the owner and chef of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. Bottura is also the founder of Food for Soul, a non-profit organization that aims to combat food waste and promote social inclusion."
   },
   {
     "id": 5,
     "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
-    "chefName": "Samantha Wong",
+    "chefName": "Christina Tosi",
     "yearsOfExperience": 11,
     "numberOfRecipes": 62,
     "likes": 2800,
-    "chefBio": "Jessica Chen is a chef who specializes in Asian fusion cuisine. With over 12 years of experience in the culinary industry, Jessica has developed a unique style that blends traditional Asian flavors with modern techniques. Her dishes are known for their bold flavors and beautiful presentation."
+    "chefBio": "Christina Tosi is an American pastry chef and entrepreneur, known for her innovative and playful approach to baking. She is the founder and owner of Milk Bar, a bakery and dessert shop with locations across the United States. Tosi has authored several cookbooks and has been a judge on MasterChef and MasterChef Junior."
   },
   {
     "id": 6,
     "chefPicture": "https://raw.githubusercontent.com/Akram409/Developer-Portfolio/main/images/OIP.jpg",
-    "chefName": "Benjamin Lee",
+    "chefName": "Yotam Ottolenghi",
     "yearsOfExperience": 20,
     "numberOfRecipes": 113,
     "likes": 7500,
-    "chefBio": "Jessica Chen is a chef who specializes in Asian fusion cuisine. With over 12 years of experience in the culinary industry, Jessica has developed a unique style that blends traditional Asian flavors with modern techniques. Her dishes are known for their bold flavors and beautiful presentation."
+    "chefBio": "Yotam Ottolenghi is a Israeli-British chef, cookbook author, and restaurateur, known for his vibrant and flavorful Middle Eastern-inspired cuisine. He is the owner of several restaurants in London and has authored several bestselling cookbooks, including Plenty and Jerusalem. Ottolenghi's recipes are beloved for their bold use of spices and fresh ingredients."
   }
 ]
