@@ -1,42 +1,42 @@
 [
   {
     "client_name": "John Doe",
-    "review": "The food at this restaurant is absolutely delicious! I particularly enjoyed the steak, which was cooked to perfection. The service was also fantastic, and I would definitely recommend this place to anyone looking for a great meal.",
+    "review": "I wasn't too impressed with the food at this restaurant. While it wasn't terrible, it definitely didn't live up to my expectations",
     "rating": 5
   },
   {
     "client_name": "Jane Smith",
-    "review": "I had a wonderful experience at this restaurant. The food was fresh and flavorful, and the atmosphere was cozy and inviting. The staff were also very friendly and attentive, making for a great overall dining experience.",
+    "review": "Amazing view, even better food. The seafood here is always fresh and expertly cooked. A must-visit spot. 🌊🦞 #seafoodlover #yum",
     "rating": 4
   },
   {
     "client_name": "Bob Johnson",
-    "review": "I wasn't too impressed with the food at this restaurant. While it wasn't terrible, it definitely didn't live up to my expectations. The service was fine, but overall I wouldn't recommend this place.",
+    "review": "Discovered this hidden gem by chance and was blown away by the food. A true culinary experience. 🤩👨‍🍳 #foodiefinds #yum",
     "rating": 2
   },
   {
     "client_name": "Sarah Lee",
-    "review": "The food at this restaurant was outstanding! I particularly enjoyed the seafood dishes, which were some of the best I've ever had. The service was also excellent, and I would definitely come back again.",
+    "review": "Fresh ingredients and unique flavors - this place never disappoints. Highly recommend the avocado toast! 🥑🍞 #brunchgoals #yum",
     "rating": 5
   },
   {
     "client_name": "Mike Brown",
-    "review": "The food was okay, but nothing special. The service was pretty slow, and I wasn't too impressed with the overall experience. I probably wouldn't come back to this restaurant again.",
+    "review": "Generous portions and great value for money. Authentic Italian cuisine that hits the spot every time. 🍝👌 #yum",
     "rating": 3
   },
   {
     "client_name": "Lisa Jackson",
-    "review": "I had a great time at this restaurant! The food was delicious and the service was top-notch. I would definitely recommend this place to anyone looking for a great dining experience.",
+    "review": "Fantastic flavors and attentive staff made for a memorable meal. Will definitely be back soon! 🍽️👌 #foodlover #yum",
     "rating": 5
   },
   {
     "client_name": "David Lee",
-    "review": "The food at this restaurant was decent, but nothing spectacular. The service was also just okay, and overall I probably wouldn't go back again.",
+    "review": "Fantastic flavors and attentive staff made for a memorable meal. Will definitely be back soon! 🍽️👌 #foodlover #yum",
     "rating": 3
   },
   {
     "client_name": "Emily Davis",
-    "review": "I loved everything about this restaurant! The food was amazing, the service was great, and the atmosphere was lovely. I will definitely be coming back again soon.",
+    "review": "Delicious food, great service, and cozy atmosphere! Highly recommend this restaurant for a satisfying dining experience. 👌🍴 #foodie #yum",
     "rating": 5
   }
 ]
