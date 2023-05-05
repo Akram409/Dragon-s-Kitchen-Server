@@ -1,6 +1,7 @@
 [
   {
     "chef_id": 1,
+    "recipe_id":1,
     "recipeName": "Kung Pao Chicken",
     "ingredients": [
       "2 chicken breasts, cut into small pieces",
@@ -22,6 +23,7 @@
   },
   {
     "chef_id": 1,
+    "recipe_id":2,
     "recipeName": "Hot and Sour Soup",
     "ingredients": [
       "6 cups chicken broth",
@@ -42,6 +44,7 @@
   },
   {
     "chef_id": 1,
+    "recipe_id":3,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -62,6 +65,7 @@
   },
   {
     "chef_id": 2,
+    "recipe_id":4,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -82,6 +86,7 @@
   },
   {
     "chef_id": 2,
+    "recipe_id":5,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -102,6 +107,7 @@
   },
   {
     "chef_id": 2,
+    "recipe_id":6,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -122,6 +128,7 @@
   },
   {
     "chef_id": 3,
+    "recipe_id":7,
     "recipeName": "Kung Pao Chicken",
     "ingredients": [
       "2 chicken breasts, cut into small pieces",
@@ -143,6 +150,7 @@
   },
   {
     "chef_id": 3,
+    "recipe_id":8,
     "recipeName": "Hot and Sour Soup",
     "ingredients": [
       "6 cups chicken broth",
@@ -163,6 +171,7 @@
   },
   {
     "chef_id": 3,
+    "recipe_id":9,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -183,6 +192,7 @@
   },
   {
     "chef_id": 4,
+    "recipe_id":10,
     "recipeName": "Kung Pao Chicken",
     "ingredients": [
       "2 chicken breasts, cut into small pieces",
@@ -204,6 +214,7 @@
   },
   {
     "chef_id": 4,
+    "recipe_id":11,
     "recipeName": "Hot and Sour Soup",
     "ingredients": [
       "6 cups chicken broth",
@@ -224,6 +235,7 @@
   },
   {
     "chef_id": 4,
+    "recipe_id":12,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -244,6 +256,7 @@
   },
   {
     "chef_id": 5,
+    "recipe_id":13,
     "recipeName": "Kung Pao Chicken",
     "ingredients": [
       "2 chicken breasts, cut into small pieces",
@@ -265,6 +278,7 @@
   },
   {
     "chef_id": 5,
+    "recipe_id":14,
     "recipeName": "Hot and Sour Soup",
     "ingredients": [
       "6 cups chicken broth",
@@ -285,6 +299,7 @@
   },
   {
     "chef_id": 5,
+    "recipe_id":15,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
@@ -305,6 +320,7 @@
   },
   {
     "chef_id": 6,
+    "recipe_id":16,
     "recipeName": "Kung Pao Chicken",
     "ingredients": [
       "2 chicken breasts, cut into small pieces",
@@ -326,6 +342,7 @@
   },
   {
     "chef_id": 6,
+    "recipe_id":17,
     "recipeName": "Hot and Sour Soup",
     "ingredients": [
       "6 cups chicken broth",
@@ -346,6 +363,7 @@
   },
   {
     "chef_id": 6,
+    "recipe_id":18,
     "recipeName": "Szechuan Beef",
     "ingredients": [
       "1 pound flank steak, sliced into thin strips",
